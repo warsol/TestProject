@@ -3,7 +3,7 @@ A README.md file is intended to quickly orient readers to what your project can 
 
 ## Edit this ReadMe and commit your change to a topic branch
 In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
-
+I'm making changes
 Then make some changes to this ReadMe file.
 
 > Make some **edits** to _this_ blockquote
